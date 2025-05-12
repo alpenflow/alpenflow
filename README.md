@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alpenflow
-- 👀 I’m interested in rewriting the fitness, health and wellness industy from web2 to web3 to restore value to users, brick and mortars, and the digitaal divide.
+- 👀 I’m interested in rewriting the fitness, health and wellness industy from web2 to web3 to restore value to users, brick and mortars, and the digital divide.
 - 🌱 I’m currently learning everything from github, solidity, next.js, node.js, react, ai sdks, and on and on and on, vibe coding gets you to the door, knowledge opens it.
 - 💞️ I’m looking to collaborate on everything. I'm humble and motivated.
 - 📫 How to reach me hello@mikerichardson.io
